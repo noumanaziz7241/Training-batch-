@@ -1,0 +1,406 @@
+[I 2023-02-22 09:14:20.854 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-22 09:14:20.854 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 09:14:20.858 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 09:14:20.859 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 09:14:20.859 NotebookApp] http://localhost:8888/?token=21f1210f7a980d317a08e1a3e2f7726e955c7a4ac3c1472a
+[I 09:14:20.859 NotebookApp]  or http://127.0.0.1:8888/?token=21f1210f7a980d317a08e1a3e2f7726e955c7a4ac3c1472a
+[I 09:14:20.859 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:14:20.888 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-6177-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=21f1210f7a980d317a08e1a3e2f7726e955c7a4ac3c1472a
+     or http://127.0.0.1:8888/?token=21f1210f7a980d317a08e1a3e2f7726e955c7a4ac3c1472a
+[W 09:14:39.486 NotebookApp] Notebook 100-pandas-puzzles/100-pandas-puzzles.ipynb is not trusted
+[I 09:14:42.757 NotebookApp] Kernel started: 358d6f60-e744-4a6a-8cdf-fb1e9614ba02, name: python3
+[I 09:14:42.840 NotebookApp] 302 GET /notebooks/100-pandas-puzzles/img/candle.jpg (127.0.0.1) 1.800000ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d02a5853-4cbe-4a2d-9c61-b0bd90ec34d8
+[W 09:15:51.723 NotebookApp] Notebook 100-pandas-puzzles/100-pandas-puzzles-with-solutions.ipynb is not trusted
+[I 09:15:55.705 NotebookApp] Kernel started: b2f15517-cca3-4670-b9da-122347aa4c8f, name: python3
+[I 09:15:55.826 NotebookApp] 302 GET /notebooks/100-pandas-puzzles/img/candle.jpg (127.0.0.1) 2.060000ms
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 836a7126-3f37-45d9-b71c-ce27b9fc26db
+[I 09:16:42.754 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:17:56.244 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles-with-solutions.ipynb
+[I 09:18:42.746 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:19:29.777 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:20:19.004 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:20:42.750 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:21:37.801 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:22:42.747 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:24:42.747 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:25:06.661 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:26:42.751 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:27:25.511 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:27:33.656 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:28:42.765 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:28:52.211 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:29:13.703 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:30:42.762 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:32:43.204 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:33:13.948 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:34:42.749 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:38:42.746 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:40:42.747 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:41:17.022 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:42:42.764 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:43:03.680 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:43:45.431 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:44:03.989 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:44:42.765 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:46:42.745 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:48:01.541 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:49:43.123 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:49:59.303 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:50:34.653 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:52:42.749 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:54:42.741 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:56:42.743 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 09:58:42.783 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:00:01.180 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:00:09.192 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:00:42.742 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:01:27.370 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:02:42.766 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:02:56.942 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:04:43.206 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:06:42.766 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:08:42.774 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:10:05.737 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:10:42.772 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:12:42.761 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:16:42.749 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:16:51.291 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:18:03.413 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:20:43.194 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:22:42.747 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:24:42.736 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:26:05.343 NotebookApp] Starting buffering for 358d6f60-e744-4a6a-8cdf-fb1e9614ba02:b4fdb5cc5d704d1e8e74a88ee225d7fe
+[I 10:26:05.966 NotebookApp] Kernel restarted: 358d6f60-e744-4a6a-8cdf-fb1e9614ba02
+[I 10:26:05.987 NotebookApp] Restoring connection for 358d6f60-e744-4a6a-8cdf-fb1e9614ba02:b4fdb5cc5d704d1e8e74a88ee225d7fe
+[I 10:26:06.537 NotebookApp] Replaying 3 buffered messages
+[I 10:26:34.943 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:28:42.770 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:30:42.766 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:32:43.215 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:33:12.251 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:34:42.769 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:36:42.751 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:38:42.753 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:40:43.224 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 10:41:21.473 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:05:00.218 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:09:00.235 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:11:00.222 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:13:53.745 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:15:00.217 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:17:00.214 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:17:02.859 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:17:48.320 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:23:00.236 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:23:26.614 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:27:00.229 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:31:00.212 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:33:00.212 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:37:01.203 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:39:01.203 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:41:01.198 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:43:01.203 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:45:01.179 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:47:01.198 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:49:01.202 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:55:01.227 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 11:57:01.644 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:01:01.187 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:03:01.638 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:05:01.208 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:06:33.379 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:08:31.677 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:17:01.221 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:19:01.170 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:21:01.203 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 12:45:01.182 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:05:37.305 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:07:07.776 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:09:07.798 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:13:07.783 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:15:07.777 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:17:07.827 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:19:07.781 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:21:07.777 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:23:08.234 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:47:07.773 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:48:18.975 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:57:07.778 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 13:59:07.799 NotebookApp] Saving file at /100-pandas-puzzles/100-pandas-puzzles.ipynb
+[I 14:02:15.772 NotebookApp] Starting buffering for 358d6f60-e744-4a6a-8cdf-fb1e9614ba02:b4fdb5cc5d704d1e8e74a88ee225d7fe
+[I 14:02:15.779 NotebookApp] Starting buffering for b2f15517-cca3-4670-b9da-122347aa4c8f:cc78357c214d47ca8bf357fddb76be8a
+[I 13:16:13.837 NotebookApp] The port 8888 is already in use, trying another port.
+[I 13:16:13.837 NotebookApp] The port 8889 is already in use, trying another port.
+[I 2023-02-23 13:16:14.521 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-23 13:16:14.522 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 13:16:14.526 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 13:16:14.526 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 13:16:14.526 NotebookApp] http://localhost:8890/?token=a67dd42e27ac254c3ce0af6dd41cdd10c4e067a0e805bcfd
+[I 13:16:14.526 NotebookApp]  or http://127.0.0.1:8890/?token=a67dd42e27ac254c3ce0af6dd41cdd10c4e067a0e805bcfd
+[I 13:16:14.526 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 13:16:14.550 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-23650-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=a67dd42e27ac254c3ce0af6dd41cdd10c4e067a0e805bcfd
+     or http://127.0.0.1:8890/?token=a67dd42e27ac254c3ce0af6dd41cdd10c4e067a0e805bcfd
+[I 13:17:08.316 NotebookApp] Creating new notebook in 
+[I 13:17:10.109 NotebookApp] Kernel started: 1762ade7-cbf4-4908-a05c-623fd20ec7d4, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b56c6eb8-e364-40e6-817e-b310058577c3
+[I 13:19:10.020 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:21:10.801 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:22:09.631 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:23:10.061 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:25:10.781 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:27:10.016 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:29:10.023 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:31:10.017 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:33:10.009 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:37:10.034 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:39:10.010 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:41:10.032 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:43:10.016 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:45:10.017 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:47:10.022 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:49:10.016 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:53:54.407 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:54:33.302 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:57:00.849 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 13:57:19.511 NotebookApp] Starting buffering for 1762ade7-cbf4-4908-a05c-623fd20ec7d4:03f8592e87264b079708a8c1a5ca1817
+[I 2023-02-23 15:07:11.957 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-23 15:07:11.957 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 15:07:11.961 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 15:07:11.962 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 15:07:11.962 NotebookApp] http://localhost:8888/?token=487d0ecadbe7f453df6fbe93a6e2ecc05135131ed0bc0168
+[I 15:07:11.962 NotebookApp]  or http://127.0.0.1:8888/?token=487d0ecadbe7f453df6fbe93a6e2ecc05135131ed0bc0168
+[I 15:07:11.962 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:07:11.988 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-30883-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=487d0ecadbe7f453df6fbe93a6e2ecc05135131ed0bc0168
+     or http://127.0.0.1:8888/?token=487d0ecadbe7f453df6fbe93a6e2ecc05135131ed0bc0168
+[W 15:07:31.516 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:07:32.097 NotebookApp] Kernel started: 0304d6e6-16a1-4a7b-85c8-2db4519a2261, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 60a1000e-fe28-4206-9c9f-09ef2cf9a75b
+[I 15:09:31.991 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:09:31.991 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:11:32.789 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:11:32.789 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:13:32.777 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:13:32.778 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:17:31.961 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:17:31.961 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:19:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:19:31.962 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:23:31.976 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:23:31.977 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:25:31.966 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:25:31.966 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:31:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:31:31.962 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:33:31.979 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:33:31.980 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:35:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:35:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:37:31.959 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:37:31.959 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:43:31.953 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:43:31.954 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:45:31.959 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:45:31.960 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:47:31.963 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:47:31.964 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 15:57:31.978 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 15:57:31.979 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:01:31.976 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:01:31.977 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:03:31.977 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:03:31.979 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:05:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:05:31.962 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:11:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:11:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:13:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:13:31.962 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:23:31.963 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:23:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:25:31.978 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:25:31.980 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:27:31.963 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:27:31.964 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:29:31.959 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:29:31.959 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:33:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:33:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:41:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:41:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:43:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:43:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:45:31.978 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:45:31.980 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:47:31.981 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:47:31.983 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:49:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:49:31.963 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:51:31.978 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:51:31.979 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:53:31.978 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:53:31.980 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:54:56.592 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:54:56.593 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:55:40.815 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:55:40.816 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:56:03.298 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:56:03.299 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 16:57:28.725 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 16:57:28.726 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:02:24.282 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:02:24.285 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:03:31.964 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:03:31.965 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:05:31.967 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:05:31.968 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:07:31.974 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:07:31.976 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:09:31.961 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:09:31.962 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:10:12.217 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:10:12.217 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:10:39.930 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:10:39.931 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:11:24.846 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:11:24.848 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:12:30.337 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:12:30.339 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:17:31.981 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 17:17:31.982 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 17:17:58.573 NotebookApp] Starting buffering for 0304d6e6-16a1-4a7b-85c8-2db4519a2261:cc7d17dd80a248199316662576e86802
+[I 17:17:59.303 NotebookApp] Kernel restarted: 0304d6e6-16a1-4a7b-85c8-2db4519a2261
+[I 17:17:59.323 NotebookApp] Restoring connection for 0304d6e6-16a1-4a7b-85c8-2db4519a2261:cc7d17dd80a248199316662576e86802
+[I 17:17:59.854 NotebookApp] Replaying 3 buffered messages
+[I 17:19:31.965 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:23:20.586 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:33:11.311 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:35:31.978 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:37:31.963 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:53:31.953 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:55:31.968 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 17:59:31.962 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:00:37.200 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:01:23.629 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:01:48.557 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:03:39.191 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:03:43.481 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:04:41.090 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 18:07:38.198 NotebookApp] Starting buffering for 0304d6e6-16a1-4a7b-85c8-2db4519a2261:cc7d17dd80a248199316662576e86802
+[I 2023-02-23 22:46:25.278 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-23 22:46:25.278 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 22:46:25.283 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 22:46:25.283 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 22:46:25.283 NotebookApp] http://localhost:8888/?token=988835bf2605b1c0fb006af44b9a8861c1a5c92e222dc386
+[I 22:46:25.283 NotebookApp]  or http://127.0.0.1:8888/?token=988835bf2605b1c0fb006af44b9a8861c1a5c92e222dc386
+[I 22:46:25.283 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:46:25.310 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-3324-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=988835bf2605b1c0fb006af44b9a8861c1a5c92e222dc386
+     or http://127.0.0.1:8888/?token=988835bf2605b1c0fb006af44b9a8861c1a5c92e222dc386
+[W 22:46:45.202 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 22:46:45.998 NotebookApp] Kernel started: cbe001c1-5587-44bc-99a2-e160f4e569a4, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7629dbbc-655c-48ea-b8ac-4f4fac1f8b40
+[I 22:52:47.077 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 22:52:47.078 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[W 22:54:56.467 NotebookApp] Notebook pandas_task/pandas_task_solution/pandas_evaluation_task_solution.ipynb is not trusted
+[I 22:54:59.622 NotebookApp] Kernel started: 63eeb76f-ea56-44f9-8975-ffa64ced93d0, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 59d083a8-5156-4629-b591-c21a2c901d2a
+[I 22:56:57.123 NotebookApp] Saving file at /pandas_task/pandas_task_solution/pandas_evaluation_task_solution.ipynb
+[I 22:58:57.117 NotebookApp] Saving file at /pandas_task/pandas_task_solution/pandas_evaluation_task_solution.ipynb
+[I 23:00:25.837 NotebookApp] Saving file at /pandas_task/pandas_task_solution/pandas_evaluation_task_solution.ipynb
+[I 23:04:02.448 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 23:04:02.450 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 23:06:10.093 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 23:06:46.165 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 23:07:36.502 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 23:08:36.499 NotebookApp] Saving file at /pandas_task/pandas_task_solution/pandas_evaluation_task_solution.ipynb
+[I 23:31:23.637 NotebookApp] Saving file at /Data Cleaning.ipynb
+[I 23:34:15.166 NotebookApp] Starting buffering for cbe001c1-5587-44bc-99a2-e160f4e569a4:c8eabecceaad445d953f792631a0a375
+[I 23:34:16.503 NotebookApp] Starting buffering for 63eeb76f-ea56-44f9-8975-ffa64ced93d0:4201ad67fb62406b8e41a37360ec717a
+[I 2023-02-24 09:27:36.324 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-24 09:27:36.324 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 09:27:36.329 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 09:27:36.329 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 09:27:36.329 NotebookApp] http://localhost:8888/?token=0cdc76dc009766d024787573139012d715157980d8622659
+[I 09:27:36.329 NotebookApp]  or http://127.0.0.1:8888/?token=0cdc76dc009766d024787573139012d715157980d8622659
+[I 09:27:36.329 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:27:36.358 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-4910-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0cdc76dc009766d024787573139012d715157980d8622659
+     or http://127.0.0.1:8888/?token=0cdc76dc009766d024787573139012d715157980d8622659
+[W 09:28:25.516 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 09:28:26.389 NotebookApp] Kernel started: daae9b5d-e7c6-4f40-b394-88426a8c19a4, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 1552abe6-dede-45b2-8d2e-0f8b2ade5cf0
+[I 09:32:26.400 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 09:32:26.401 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 09:54:40.008 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 09:54:40.009 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 10:56:25.057 NotebookApp] The port 8888 is already in use, trying another port.
+[I 10:56:25.058 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 10:56:25.058 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 10:56:25.058 NotebookApp] http://localhost:8889/?token=4a059b47b1c4ba530e3c555a353b536d0f1b2753ce723804
+[I 10:56:25.058 NotebookApp]  or http://127.0.0.1:8889/?token=4a059b47b1c4ba530e3c555a353b536d0f1b2753ce723804
+[I 10:56:25.058 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:56:25.082 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-14106-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=4a059b47b1c4ba530e3c555a353b536d0f1b2753ce723804
+     or http://127.0.0.1:8889/?token=4a059b47b1c4ba530e3c555a353b536d0f1b2753ce723804
+[W 10:57:09.740 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 10:57:10.544 NotebookApp] Kernel started: d374c493-e205-476a-bb6f-3c06fd1d6791, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: b777beb5-0e2e-4fee-a554-96c636ec24a3
+[I 10:59:10.865 NotebookApp] Saving file at /Data Cleaning.ipynb
+[W 10:59:10.866 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 11:00:32.456 NotebookApp] Starting buffering for daae9b5d-e7c6-4f40-b394-88426a8c19a4:3dc7f53688894b8284adf2d2d8267f30
+[I 11:00:35.684 NotebookApp] Starting buffering for d374c493-e205-476a-bb6f-3c06fd1d6791:03a5008ef49b4cf082a2434a63b82aaf
+[I 11:00:50.711 NotebookApp] The port 8888 is already in use, trying another port.
+[I 11:00:50.711 NotebookApp] The port 8889 is already in use, trying another port.
+[I 11:00:50.712 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/pandas
+[I 11:00:50.712 NotebookApp] Jupyter Notebook 6.5.2 is running at:
+[I 11:00:50.712 NotebookApp] http://localhost:8890/?token=d8ef0373a2c143c30fcc330011c3f961b5e749bdc24f815f
+[I 11:00:50.712 NotebookApp]  or http://127.0.0.1:8890/?token=d8ef0373a2c143c30fcc330011c3f961b5e749bdc24f815f
+[I 11:00:50.712 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:00:50.733 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-14957-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=d8ef0373a2c143c30fcc330011c3f961b5e749bdc24f815f
+     or http://127.0.0.1:8890/?token=d8ef0373a2c143c30fcc330011c3f961b5e749bdc24f815f
+[W 11:00:57.721 NotebookApp] Notebook Data Cleaning.ipynb is not trusted
+[I 11:00:58.474 NotebookApp] Kernel started: b1235ec4-d2a1-48c8-abfd-12f0733147b7, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 39c6ef86-10e5-4813-a1d3-20998268dc2e
+[I 13:11:18.573 NotebookApp] Starting buffering for b1235ec4-d2a1-48c8-abfd-12f0733147b7:76f70c2a1f694c97847f7fc54359b6bd

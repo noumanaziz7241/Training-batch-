@@ -1,0 +1,816 @@
+[I 2023-02-18 12:24:08.984 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-18 12:24:08.984 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 12:24:08.989 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 12:24:08.989 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 12:24:08.989 NotebookApp] http://localhost:8888/?token=6c163fe23c209a5fc21d64c03bd158b5c20b4eb102684871
+[I 12:24:08.989 NotebookApp]  or http://127.0.0.1:8888/?token=6c163fe23c209a5fc21d64c03bd158b5c20b4eb102684871
+[I 12:24:08.989 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:24:09.020 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-6479-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=6c163fe23c209a5fc21d64c03bd158b5c20b4eb102684871
+     or http://127.0.0.1:8888/?token=6c163fe23c209a5fc21d64c03bd158b5c20b4eb102684871
+[W 12:24:18.635 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:24:23.655 NotebookApp] Kernel started: 4c9c35be-30e5-4805-be69-dae46761277b, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: a6258590-d063-4e12-a727-d94937fedec0
+[I 12:26:22.274 NotebookApp] Starting buffering for 4c9c35be-30e5-4805-be69-dae46761277b:abfebe5bf4ec4cadb5a8f4063873232e
+[I 12:26:22.614 NotebookApp] Kernel restarted: 4c9c35be-30e5-4805-be69-dae46761277b
+[I 12:26:22.646 NotebookApp] Restoring connection for 4c9c35be-30e5-4805-be69-dae46761277b:abfebe5bf4ec4cadb5a8f4063873232e
+[I 12:26:23.152 NotebookApp] Replaying 3 buffered messages
+[I 12:26:23.635 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:28:23.884 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:30:23.648 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:32:23.816 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:34:23.737 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:36:23.810 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:38:23.735 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:40:23.754 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:42:24.001 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:43:10.105 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:44:23.740 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:46:23.750 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:48:23.802 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:50:23.740 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:52:23.741 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:54:23.732 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 12:58:23.718 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:00:23.803 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:02:23.717 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:04:23.708 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:06:23.822 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:08:23.820 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:10:23.751 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:12:23.749 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:14:23.709 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:16:23.842 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:16:43.282 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:17:14.846 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:18:23.763 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:20:23.748 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:21:50.266 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:22:23.768 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:24:23.750 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:26:23.765 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:28:23.742 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:30:23.731 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:32:23.796 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:33:22.054 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:36:23.764 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:38:23.805 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:40:00.140 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:40:23.741 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:42:23.759 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:43:38.019 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:44:23.769 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:46:24.139 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:48:23.768 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:49:50.137 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:53:59.944 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:54:23.718 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:54:24.147 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:55:17.138 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:56:23.831 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 13:56:31.057 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:00:23.777 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:02:24.040 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:02:53.898 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:03:08.272 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:06:23.757 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:08:24.006 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:10:23.754 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:10:35.900 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:12:14.531 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:12:23.756 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:14:23.775 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:14:44.412 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:14:52.518 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:15:26.930 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:15:34.685 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:54:59.925 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:56:23.811 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 14:56:40.262 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:10:23.793 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:12:23.822 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:14:23.990 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:16:10.829 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:18:23.737 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:19:39.075 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:22:23.821 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:24:23.751 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:26:17.787 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:28:23.732 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:30:23.741 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:31:31.187 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:32:23.749 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:32:24.132 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:34:23.717 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:36:23.755 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:38:23.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:40:23.784 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:42:23.742 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:44:23.746 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:46:23.760 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:47:43.167 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:47:50.214 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:48:23.752 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:49:39.790 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:50:23.752 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:51:03.056 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:52:23.764 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:53:59.731 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:54:31.378 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:56:33.556 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:58:23.798 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:59:26.897 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:59:47.062 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:59:52.403 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:40:04.111 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:41:30.782 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:42:05.896 NotebookApp] Starting buffering for 4c9c35be-30e5-4805-be69-dae46761277b:abfebe5bf4ec4cadb5a8f4063873232e
+[I 2023-02-18 23:03:47.579 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-18 23:03:47.579 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 23:03:47.583 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 23:03:47.583 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 23:03:47.583 NotebookApp] http://localhost:8888/?token=f951d26412c7f5c5157d08bf84102590e6539d5f8f1694d1
+[I 23:03:47.583 NotebookApp]  or http://127.0.0.1:8888/?token=f951d26412c7f5c5157d08bf84102590e6539d5f8f1694d1
+[I 23:03:47.584 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:03:47.612 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-4799-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f951d26412c7f5c5157d08bf84102590e6539d5f8f1694d1
+     or http://127.0.0.1:8888/?token=f951d26412c7f5c5157d08bf84102590e6539d5f8f1694d1
+[W 23:04:30.492 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 23:04:38.608 NotebookApp] Kernel started: c213c06c-b60f-4c8c-a672-f9c3f0507464, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 499632eb-dd82-4163-bc39-5d447ba99251
+[I 23:05:10.598 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 23:05:10.599 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 23:06:38.731 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 23:06:38.733 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 23:06:39.048 NotebookApp] Starting buffering for c213c06c-b60f-4c8c-a672-f9c3f0507464:218867f86cb348d78c1187d1ad1212b4
+[I 23:06:39.356 NotebookApp] Kernel restarted: c213c06c-b60f-4c8c-a672-f9c3f0507464
+[I 23:06:39.371 NotebookApp] Restoring connection for c213c06c-b60f-4c8c-a672-f9c3f0507464:218867f86cb348d78c1187d1ad1212b4
+[I 23:06:39.848 NotebookApp] Replaying 3 buffered messages
+[I 23:08:38.675 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 23:08:38.677 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 23:10:38.793 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 23:10:38.796 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 23:12:38.801 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:14:38.925 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:16:38.714 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:18:38.779 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:20:38.713 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:21:12.237 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:22:38.795 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:22:40.808 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:24:38.686 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:26:39.008 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:28:39.000 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:30:33.702 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:31:45.094 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:32:01.539 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:32:38.757 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:34:38.969 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:40:38.747 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:42:38.692 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:42:44.627 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:46:38.720 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:48:38.719 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:48:42.884 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:50:38.703 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:52:38.730 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:53:52.929 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:54:16.840 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:56:38.708 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:57:09.248 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:00:38.804 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:02:38.783 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:04:38.747 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:06:38.915 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:08:38.934 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:10:38.722 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:11:15.521 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:12:38.694 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:14:38.923 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:16:38.769 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:18:38.734 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:18:55.445 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:19:10.462 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:20:38.725 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:20:56.776 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:21:20.627 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:22:39.030 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:24:23.096 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:26:38.709 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:28:02.240 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:30:38.978 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:31:15.190 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:32:38.683 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:33:23.408 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:34:08.855 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:35:02.874 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:36:47.062 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:42:32.702 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:52:10.481 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:54:38.734 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:56:05.200 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:56:38.707 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:58:38.797 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:58:56.377 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:59:25.919 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:59:31.418 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:00:38.694 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:02:38.711 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:03:52.776 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:04:09.052 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:04:36.602 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:04:53.784 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:54:48.545 NotebookApp] Saving file at /100_Numpy_exercises_with_hints.md
+[I 01:54:53.034 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:55:01.318 NotebookApp] Starting buffering for c213c06c-b60f-4c8c-a672-f9c3f0507464:218867f86cb348d78c1187d1ad1212b4
+[I 01:55:01.633 NotebookApp] Kernel restarted: c213c06c-b60f-4c8c-a672-f9c3f0507464
+[I 01:55:01.651 NotebookApp] Restoring connection for c213c06c-b60f-4c8c-a672-f9c3f0507464:218867f86cb348d78c1187d1ad1212b4
+[I 01:55:02.660 NotebookApp] Replaying 3 buffered messages
+[I 01:55:51.236 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:55:55.979 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 01:55:58.766 NotebookApp] Starting buffering for c213c06c-b60f-4c8c-a672-f9c3f0507464:218867f86cb348d78c1187d1ad1212b4
+[I 2023-02-19 14:58:55.426 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-19 14:58:55.427 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 14:58:55.431 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 14:58:55.431 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 14:58:55.432 NotebookApp] http://localhost:8888/?token=69b0adfd917bae6221755c6369abffa6f4da16e7791de152
+[I 14:58:55.432 NotebookApp]  or http://127.0.0.1:8888/?token=69b0adfd917bae6221755c6369abffa6f4da16e7791de152
+[I 14:58:55.432 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:58:55.460 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-4600-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=69b0adfd917bae6221755c6369abffa6f4da16e7791de152
+     or http://127.0.0.1:8888/?token=69b0adfd917bae6221755c6369abffa6f4da16e7791de152
+[W 15:00:52.666 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 15:01:02.244 NotebookApp] Kernel started: e9970515-6035-45fc-afe3-a05f2ceed2ae, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 7e471050-f5ad-4078-89a4-93fbd7be9c5a
+[I 15:03:02.420 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 15:03:02.423 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 15:05:02.940 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:07:02.477 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:09:02.403 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:11:02.412 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:13:02.945 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:15:02.914 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:17:02.383 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:17:42.994 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:19:02.425 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:21:02.912 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:23:02.428 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:25:02.378 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:27:02.361 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:29:02.441 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:31:02.948 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:37:02.442 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:39:02.371 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:41:02.339 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:43:02.379 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:44:37.514 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:55:02.344 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:57:02.965 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 15:59:02.357 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:01:02.374 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:03:02.314 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:05:02.375 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:07:02.370 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:09:02.376 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:09:39.189 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:10:08.325 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:10:37.759 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:12:14.627 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:13:02.912 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:15:02.399 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:17:02.413 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:18:15.897 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:19:46.774 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:20:18.387 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:31:07.287 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 16:38:54.742 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:35:02.459 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:37:02.368 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:39:02.375 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:41:02.438 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:43:02.383 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:45:02.410 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:47:02.387 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:49:02.132 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:49:02.598 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:49:25.353 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:51:02.947 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:51:34.142 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:52:17.166 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:52:50.494 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:53:02.130 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:54:07.412 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:55:02.410 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:57:02.346 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:59:02.347 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:01:02.373 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:03:02.903 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:05:02.421 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:05:22.536 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:07:02.909 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:09:02.903 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:10:57.250 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:13:02.329 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:15:02.902 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:17:02.399 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:18:31.739 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:21:02.764 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:21:50.935 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:22:29.118 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:27:35.010 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:28:07.597 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:31:24.546 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:35:02.455 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:36:27.716 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:37:02.339 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:37:56.176 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:38:25.337 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:41:02.340 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:42:47.241 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:43:55.767 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:44:22.081 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:44:30.636 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:47:02.421 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:47:51.542 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:48:04.033 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:49:02.396 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:49:11.314 NotebookApp] Starting buffering for e9970515-6035-45fc-afe3-a05f2ceed2ae:da05441b590c40d6939b5bd20fc3e292
+[I 18:49:12.133 NotebookApp] Kernel restarted: e9970515-6035-45fc-afe3-a05f2ceed2ae
+[I 18:49:12.153 NotebookApp] Restoring connection for e9970515-6035-45fc-afe3-a05f2ceed2ae:da05441b590c40d6939b5bd20fc3e292
+[I 18:49:13.160 NotebookApp] Replaying 3 buffered messages
+[I 18:51:02.411 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:51:17.952 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:53:02.365 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:55:02.366 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:57:02.431 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:59:02.939 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:00:37.577 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:02:11.307 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:02:24.634 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:03:02.364 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:03:39.500 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:03:50.232 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:05:02.390 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:07:02.361 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:09:02.394 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:10:10.946 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:11:02.386 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:11:02.845 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:11:46.222 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:11:54.839 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:14:03.786 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:21:40.643 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:23:44.453 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:24:53.070 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:30:28.607 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:37:45.559 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:40:11.683 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:50:34.533 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:53:02.346 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:55:02.335 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:56:05.393 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:56:13.032 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:57:14.595 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 19:58:20.235 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:03:02.371 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:03:45.381 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:06:03.134 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:08:39.524 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:09:32.893 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:13:02.354 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:13:40.372 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:14:19.942 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:15:18.653 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 20:15:55.338 NotebookApp] Starting buffering for e9970515-6035-45fc-afe3-a05f2ceed2ae:da05441b590c40d6939b5bd20fc3e292
+[I 2023-02-20 09:20:55.451 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-20 09:20:55.451 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 09:20:55.456 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 09:20:55.456 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 09:20:55.456 NotebookApp] http://localhost:8888/?token=7130af3ee9c2a6abb2c9f3f87b0c39c81c040c63fd4dbd49
+[I 09:20:55.456 NotebookApp]  or http://127.0.0.1:8888/?token=7130af3ee9c2a6abb2c9f3f87b0c39c81c040c63fd4dbd49
+[I 09:20:55.456 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:20:55.485 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-5435-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7130af3ee9c2a6abb2c9f3f87b0c39c81c040c63fd4dbd49
+     or http://127.0.0.1:8888/?token=7130af3ee9c2a6abb2c9f3f87b0c39c81c040c63fd4dbd49
+[W 09:21:14.681 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:21:28.711 NotebookApp] Kernel started: 678502bf-c07b-43e4-9ce2-d7d54b41bdbb, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 578e6ea9-643b-42e0-a9d7-f80c22bf5f3f
+[I 09:37:28.831 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:37:28.834 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:39:28.858 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:39:28.865 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:41:28.824 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:41:28.827 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:51:28.806 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:51:28.809 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:53:28.891 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:53:28.896 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:55:28.921 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:55:28.926 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:57:28.926 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:57:28.929 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 09:59:28.795 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 09:59:28.798 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:01:28.820 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:01:28.823 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:03:28.896 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:03:28.901 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:05:28.829 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:05:28.837 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:07:28.922 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:07:28.925 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:09:28.900 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:09:28.908 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:11:28.932 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:11:28.935 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:12:09.538 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:12:09.541 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:15:28.868 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:15:28.875 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:17:22.822 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:17:22.825 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:23:28.830 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:23:28.833 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:33:33.971 NotebookApp] Starting buffering for 678502bf-c07b-43e4-9ce2-d7d54b41bdbb:05ae326751784c1d822b7426990c12f6
+[I 10:33:34.291 NotebookApp] Kernel restarted: 678502bf-c07b-43e4-9ce2-d7d54b41bdbb
+[I 10:33:34.340 NotebookApp] Restoring connection for 678502bf-c07b-43e4-9ce2-d7d54b41bdbb:05ae326751784c1d822b7426990c12f6
+[I 10:33:34.786 NotebookApp] Replaying 3 buffered messages
+[I 10:37:28.810 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:37:28.813 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:39:28.841 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:39:28.844 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:41:28.826 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:41:28.835 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:55:28.865 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:55:28.868 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:57:25.539 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:57:25.542 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:57:54.885 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:57:54.890 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:58:14.450 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:58:14.455 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:03:18.602 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:03:18.605 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:09:28.822 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:09:28.826 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:13:28.823 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:13:28.826 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:17:28.901 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:17:28.904 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:37:28.916 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:37:28.922 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:39:28.819 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:39:28.822 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:41:28.917 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:41:28.922 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:48:23.602 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:48:23.605 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:49:28.881 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:49:28.886 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:03:28.927 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:03:28.931 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:05:28.831 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:05:28.834 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:07:29.025 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:07:29.029 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:33:28.846 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:33:28.849 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:35:28.866 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:35:28.875 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:51:28.875 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:51:28.879 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:53:19.597 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:53:19.600 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:53:38.855 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:53:38.859 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:55:28.872 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:55:28.880 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:57:28.896 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 12:57:28.899 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:25:28.888 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:25:28.892 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:27:28.901 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:27:28.909 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:29:28.820 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:29:28.825 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:33:28.835 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:33:28.842 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:35:28.899 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:35:28.903 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:36:45.518 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:36:45.523 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:39:28.863 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:39:28.867 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:41:28.844 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:41:28.852 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:43:28.882 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:43:28.886 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:45:28.846 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:45:28.851 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:49:04.309 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:49:04.316 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:57:20.016 NotebookApp] Starting buffering for 678502bf-c07b-43e4-9ce2-d7d54b41bdbb:05ae326751784c1d822b7426990c12f6
+[I 2023-02-20 15:16:03.819 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-20 15:16:03.819 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 15:16:03.824 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 15:16:03.824 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 15:16:03.824 NotebookApp] http://localhost:8888/?token=0b4158fd838014e231dcfe1ad64bbe00c801861a71f55102
+[I 15:16:03.824 NotebookApp]  or http://127.0.0.1:8888/?token=0b4158fd838014e231dcfe1ad64bbe00c801861a71f55102
+[I 15:16:03.824 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:16:03.848 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-26361-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0b4158fd838014e231dcfe1ad64bbe00c801861a71f55102
+     or http://127.0.0.1:8888/?token=0b4158fd838014e231dcfe1ad64bbe00c801861a71f55102
+[W 15:17:39.522 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 15:17:55.413 NotebookApp] Kernel started: 27971f0a-857b-4f49-8320-22adf6419037, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 2f213cb8-6572-4555-bdfd-d03a8c3e5311
+[I 15:19:37.256 NotebookApp] Creating new notebook in 
+[I 15:19:38.829 NotebookApp] Kernel started: 83fe8166-ef70-451b-9b65-09b64ab86114, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d72b5ec3-b412-4c22-9c80-60210951070c
+[I 15:21:38.799 NotebookApp] Saving file at /Untitled.ipynb
+[ WARN:0@0.170] global /io/opencv/modules/imgcodecs/src/loadsave.cpp (239) findDecoder imread_('abc.png'): can't open/read file: check file path/integrity
+[I 15:23:38.776 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:25:38.863 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:27:38.776 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:29:38.775 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:31:38.790 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:33:38.867 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:35:38.800 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:37:38.783 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:39:38.791 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:41:38.663 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:42:23.292 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:44:27.970 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:45:38.793 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:49:38.867 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:53:43.646 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:55:28.671 NotebookApp] Saving file at /Untitled.ipynb
+[I 15:56:17.525 NotebookApp] Saving file at /Untitled.ipynb
+[I 16:08:52.905 NotebookApp] Starting buffering for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 16:08:53.232 NotebookApp] Kernel restarted: 83fe8166-ef70-451b-9b65-09b64ab86114
+[I 16:08:53.255 NotebookApp] Restoring connection for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 16:08:53.791 NotebookApp] Replaying 3 buffered messages
+[I 16:09:38.794 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:12:32.287 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:19:38.794 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:21:38.794 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:23:38.792 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:25:38.790 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:27:38.797 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:29:38.792 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:31:38.775 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:33:38.774 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:35:38.795 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:37:38.797 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:38:45.223 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:39:02.952 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:39:50.258 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:40:18.258 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:40:49.074 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 16:40:49.078 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 16:41:38.793 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:43:04.900 NotebookApp] Starting buffering for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 16:43:05.223 NotebookApp] Kernel restarted: 83fe8166-ef70-451b-9b65-09b64ab86114
+[I 16:43:05.242 NotebookApp] Restoring connection for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 16:43:05.700 NotebookApp] Replaying 3 buffered messages
+[I 16:43:38.769 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:45:38.793 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:45:39.012 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:47:38.792 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:49:38.777 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:57:38.798 NotebookApp] Saving file at /first task week 2.ipynb
+[I 16:59:38.793 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:01:38.808 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:03:38.781 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:05:38.780 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:07:38.793 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:09:38.796 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:11:38.777 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:13:38.777 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:15:38.793 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:17:39.124 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:19:38.771 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:21:38.800 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:23:38.777 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:25:38.777 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:29:07.141 NotebookApp] Starting buffering for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 17:29:07.468 NotebookApp] Kernel restarted: 83fe8166-ef70-451b-9b65-09b64ab86114
+[I 17:29:07.488 NotebookApp] Restoring connection for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 17:29:07.993 NotebookApp] Replaying 3 buffered messages
+[I 17:29:38.771 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:31:38.873 NotebookApp] Saving file at /first task week 2.ipynb
+[I 17:31:42.568 NotebookApp] Starting buffering for 27971f0a-857b-4f49-8320-22adf6419037:576a7bed0d2a41fd864315981880a193
+[I 17:31:42.882 NotebookApp] Kernel restarted: 27971f0a-857b-4f49-8320-22adf6419037
+[I 17:31:42.898 NotebookApp] Restoring connection for 27971f0a-857b-4f49-8320-22adf6419037:576a7bed0d2a41fd864315981880a193
+[I 17:31:43.906 NotebookApp] Replaying 3 buffered messages
+[I 17:31:56.187 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:33:55.512 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:35:55.514 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:37:55.538 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:39:55.535 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:41:55.554 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:43:55.604 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:45:38.944 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:53:55.578 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:55:55.986 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 17:57:55.635 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:03:58.978 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:06:08.505 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:06:53.084 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 18:06:56.792 NotebookApp] Starting buffering for 83fe8166-ef70-451b-9b65-09b64ab86114:c4ebede2b2fe46698695fec4985f9922
+[I 18:06:56.843 NotebookApp] Starting buffering for 27971f0a-857b-4f49-8320-22adf6419037:576a7bed0d2a41fd864315981880a193
+[I 2023-02-20 22:16:42.902 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-20 22:16:42.902 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 22:16:42.907 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 22:16:42.907 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 22:16:42.907 NotebookApp] http://localhost:8888/?token=e7c6ab0dc09cc3592c0d11f5bdfff0c2f0672505947df036
+[I 22:16:42.907 NotebookApp]  or http://127.0.0.1:8888/?token=e7c6ab0dc09cc3592c0d11f5bdfff0c2f0672505947df036
+[I 22:16:42.907 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:16:42.934 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-3984-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e7c6ab0dc09cc3592c0d11f5bdfff0c2f0672505947df036
+     or http://127.0.0.1:8888/?token=e7c6ab0dc09cc3592c0d11f5bdfff0c2f0672505947df036
+[W 22:17:13.904 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:17:32.209 NotebookApp] Kernel started: 5848ab5c-2fe8-4549-8e28-be58408a231f, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 322d7fad-0164-4198-9fdf-deec62359343
+[I 22:21:32.337 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 22:21:32.340 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:23:32.337 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 22:23:32.345 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:25:32.327 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 22:25:32.336 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:27:32.405 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 22:27:32.408 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:29:32.364 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 22:29:32.368 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:31:32.412 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 22:31:32.416 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 22:33:33.026 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 22:43:32.375 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 22:45:32.327 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 22:47:32.918 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:26:36.272 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:29:32.473 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:30:12.064 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:49:32.994 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:51:32.443 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:52:29.941 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 23:55:32.963 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 23:55:34.938 NotebookApp] Notebook first task week 2.ipynb is not trusted
+[I 23:55:35.301 NotebookApp] Kernel started: 15b91af9-7519-49d8-b81b-f7d0532a6cc5, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 0b0fa605-4712-4653-80c0-0ec43eec9c60
+[I 23:57:35.223 NotebookApp] Saving file at /first task week 2.ipynb
+[I 23:59:09.372 NotebookApp] Starting buffering for 15b91af9-7519-49d8-b81b-f7d0532a6cc5:307b5c26864c4b9c89bb20861c0221c2
+[I 23:59:09.685 NotebookApp] Kernel restarted: 15b91af9-7519-49d8-b81b-f7d0532a6cc5
+[I 23:59:09.701 NotebookApp] Restoring connection for 15b91af9-7519-49d8-b81b-f7d0532a6cc5:307b5c26864c4b9c89bb20861c0221c2
+[I 23:59:10.125 NotebookApp] Replaying 3 buffered messages
+[I 23:59:22.123 NotebookApp] Saving file at /first task week 2.ipynb
+[I 00:00:07.411 NotebookApp] Starting buffering for 15b91af9-7519-49d8-b81b-f7d0532a6cc5:307b5c26864c4b9c89bb20861c0221c2
+[I 00:00:07.734 NotebookApp] Kernel restarted: 15b91af9-7519-49d8-b81b-f7d0532a6cc5
+[I 00:00:07.752 NotebookApp] Restoring connection for 15b91af9-7519-49d8-b81b-f7d0532a6cc5:307b5c26864c4b9c89bb20861c0221c2
+[I 00:00:08.201 NotebookApp] Replaying 3 buffered messages
+[I 00:00:14.846 NotebookApp] Saving file at /first task week 2.ipynb
+[I 00:03:32.476 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:05:11.517 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:05:32.414 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:05:46.836 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:07:32.394 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:09:33.035 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:11:32.434 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:12:33.116 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:12:53.516 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:15:32.451 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:15:55.930 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:17:03.879 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:17:32.382 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:19:32.379 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:21:32.412 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:23:32.422 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:25:32.487 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:27:32.391 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:29:31.881 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:29:32.646 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:29:47.326 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:48:40.142 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[I 00:48:46.420 NotebookApp] Saving file at /first task week 2.ipynb
+[I 00:48:51.031 NotebookApp] Starting buffering for 15b91af9-7519-49d8-b81b-f7d0532a6cc5:307b5c26864c4b9c89bb20861c0221c2
+[I 00:48:51.072 NotebookApp] Starting buffering for 5848ab5c-2fe8-4549-8e28-be58408a231f:65cf302d2a4141c98c837d6d1cf77243
+[I 2023-02-21 10:00:00.428 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-21 10:00:00.428 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 10:00:00.433 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/numpy-100
+[I 10:00:00.433 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 10:00:00.433 NotebookApp] http://localhost:8888/?token=3238a3f92d6fb1300d5de09b93da5c987f555d6761337408
+[I 10:00:00.433 NotebookApp]  or http://127.0.0.1:8888/?token=3238a3f92d6fb1300d5de09b93da5c987f555d6761337408
+[I 10:00:00.433 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 10:00:00.458 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-7361-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=3238a3f92d6fb1300d5de09b93da5c987f555d6761337408
+     or http://127.0.0.1:8888/?token=3238a3f92d6fb1300d5de09b93da5c987f555d6761337408
+[W 10:00:18.558 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:00:36.582 NotebookApp] Kernel started: 2b382cd7-57ce-4b7f-b652-ef2378736bd8, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 308f0e6e-6c57-486f-94f5-79ba763e5713
+[I 10:02:36.729 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:02:36.734 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:10:36.744 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:10:36.748 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:12:36.819 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:12:36.822 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:20:37.103 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:20:37.110 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:22:36.745 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:22:36.748 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:24:36.723 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:24:36.728 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:28:36.749 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:28:36.753 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:30:36.803 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:30:36.838 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 10:48:36.872 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 10:48:36.876 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:24:36.816 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:24:36.819 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:25:55.348 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:25:55.352 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:26:36.719 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:26:36.723 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 11:28:36.762 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 11:28:36.766 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 12:02:10.012 NotebookApp] Creating new notebook in 
+[I 12:02:11.610 NotebookApp] Kernel started: ce461fb6-b132-49c2-8b8c-8b3ad82d59e8, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4e836ccb-d704-48cf-8065-72f476b53beb
+[I 12:04:11.551 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:06:11.531 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:08:11.528 NotebookApp] Saving file at /Numpy task 2.ipynb
+libpng warning: iCCP: known incorrect sRGB profile
+[I 12:10:11.571 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:12:11.833 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:14:11.542 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:16:11.542 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:18:11.542 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:20:11.839 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:22:11.512 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:24:11.521 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:30:11.548 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:58:11.527 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:58:40.897 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 12:59:42.843 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 13:01:47.134 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 13:02:57.180 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 13:04:11.841 NotebookApp] Saving file at /Numpy task 2.ipynb
+[I 13:18:36.754 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:18:36.758 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:20:36.791 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:20:36.795 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:22:36.772 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:22:36.777 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:23:15.495 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:23:15.499 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:23:39.218 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:23:39.223 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:28:13.544 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:28:13.553 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:30:36.764 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:30:36.768 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:42:36.814 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:42:36.819 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:44:36.788 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:44:36.793 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:46:36.753 NotebookApp] Saving file at /100_Numpy_exercises.ipynb
+[W 13:46:36.794 NotebookApp] Notebook 100_Numpy_exercises.ipynb is not trusted
+[I 13:58:07.142 NotebookApp] Starting buffering for 2b382cd7-57ce-4b7f-b652-ef2378736bd8:f7cea11fecc64b749b0f0d0830132621
+[I 13:58:07.144 NotebookApp] Starting buffering for ce461fb6-b132-49c2-8b8c-8b3ad82d59e8:96167c1f57674f318f985da77891fda2

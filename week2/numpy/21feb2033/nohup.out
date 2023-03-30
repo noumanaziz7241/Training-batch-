@@ -1,0 +1,189 @@
+[I 2023-02-21 15:03:14.987 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-21 15:03:14.988 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 15:03:14.992 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/21feb2033
+[I 15:03:14.992 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 15:03:14.992 NotebookApp] http://localhost:8888/?token=cd0dbc0c751487eb3447d852cf5130d77e89cdd540002fb6
+[I 15:03:14.992 NotebookApp]  or http://127.0.0.1:8888/?token=cd0dbc0c751487eb3447d852cf5130d77e89cdd540002fb6
+[I 15:03:14.992 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:03:15.017 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-27776-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=cd0dbc0c751487eb3447d852cf5130d77e89cdd540002fb6
+     or http://127.0.0.1:8888/?token=cd0dbc0c751487eb3447d852cf5130d77e89cdd540002fb6
+[W 15:03:23.253 NotebookApp] Notebook task1_reduce_dataset_size.ipynb is not trusted
+[I 15:03:36.524 NotebookApp] Kernel started: e8f428d4-16d8-480f-b5d8-c06053bd5d47, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: d0d3e7a2-eea0-495a-a573-34f22dc860f2
+[I 15:05:23.764 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+2023-02-21 15:06:18.527777: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-02-21 15:06:18.527831: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 15:07:23.656 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:13:23.608 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:15:23.637 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:17:23.631 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:19:23.623 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:20:53.940 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:21:36.634 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:23:23.600 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:30:56.861 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:35:24.587 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:35:45.862 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:37:24.617 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:38:31.950 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:43:24.595 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:51:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:53:24.591 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:55:24.593 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 15:59:24.600 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:01:24.611 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:03:24.593 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:13:24.592 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:15:24.616 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:16:20.974 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:21:24.619 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:25:24.714 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:27:24.592 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:29:24.590 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:31:24.617 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:33:24.604 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:35:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:37:24.614 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:39:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:41:24.592 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:41:42.380 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:45:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:46:23.562 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:47:24.588 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:48:47.802 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:51:24.591 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:52:04.518 NotebookApp] Starting buffering for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 16:52:05.342 NotebookApp] Kernel restarted: e8f428d4-16d8-480f-b5d8-c06053bd5d47
+[I 16:52:05.358 NotebookApp] Restoring connection for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 16:52:05.864 NotebookApp] Replaying 3 buffered messages
+2023-02-21 16:52:06.112402: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-02-21 16:52:06.112460: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 16:53:24.643 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:54:11.960 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:57:24.614 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 16:59:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:05:24.614 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:07:24.592 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:09:24.612 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:11:24.592 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:13:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:14:49.023 NotebookApp] Starting buffering for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 17:14:49.742 NotebookApp] Kernel restarted: e8f428d4-16d8-480f-b5d8-c06053bd5d47
+[I 17:14:49.758 NotebookApp] Restoring connection for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 17:14:50.271 NotebookApp] Replaying 3 buffered messages
+2023-02-21 17:14:50.542048: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-02-21 17:14:50.542114: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 17:15:24.593 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:17:24.589 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:19:24.649 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:21:24.648 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:22:19.919 NotebookApp] Starting buffering for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 17:22:20.636 NotebookApp] Kernel restarted: e8f428d4-16d8-480f-b5d8-c06053bd5d47
+[I 17:22:20.652 NotebookApp] Restoring connection for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 17:22:21.139 NotebookApp] Replaying 3 buffered messages
+2023-02-21 17:22:21.396951: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-02-21 17:22:21.396997: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 17:23:24.619 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:23:56.264 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:24:10.391 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:25:24.594 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:27:24.596 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:29:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:30:10.698 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:31:24.739 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:33:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:35:24.607 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:35:54.548 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:36:29.863 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:37:24.616 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:39:24.607 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:41:24.613 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:43:24.591 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:45:24.615 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:47:24.586 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:49:24.615 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:51:24.591 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:53:24.609 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:55:24.595 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:56:14.617 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:58:14.469 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 17:59:24.622 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:00:14.694 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:03:21.193 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:06:01.177 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:07:46.437 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 18:08:17.979 NotebookApp] Starting buffering for e8f428d4-16d8-480f-b5d8-c06053bd5d47:112f9f6d70d040d3b287ea2f7f317630
+[I 12:11:26.670 NotebookApp] The port 8888 is already in use, trying another port.
+[I 2023-02-22 12:11:27.382 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-22 12:11:27.382 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 12:11:27.387 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/numpy/21feb2033
+[I 12:11:27.387 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 12:11:27.387 NotebookApp] http://localhost:8889/?token=8fc978ba1df1a97067603e99a028a4e25c8c4ca4d5fa5dad
+[I 12:11:27.387 NotebookApp]  or http://127.0.0.1:8889/?token=8fc978ba1df1a97067603e99a028a4e25c8c4ca4d5fa5dad
+[I 12:11:27.387 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:11:27.410 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-15494-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=8fc978ba1df1a97067603e99a028a4e25c8c4ca4d5fa5dad
+     or http://127.0.0.1:8889/?token=8fc978ba1df1a97067603e99a028a4e25c8c4ca4d5fa5dad
+[I 12:11:36.582 NotebookApp] Kernel started: db371427-5083-4291-830f-5570d35bf3e9, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: aba1dd13-29eb-4321-885f-056dd374244e
+[I 13:29:22.046 NotebookApp] Saving file at /task1_reduce_dataset_size.ipynb
+[I 13:29:22.158 NotebookApp] Copying task1_reduce_dataset_size.ipynb to 
+[I 13:29:24.576 NotebookApp] Kernel started: 542c9720-78c0-4f06-be41-ce0215fce3d8, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: dd389ab2-c00b-487b-bd5c-0590d86c22f2
+2023-02-22 13:29:28.014972: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory
+2023-02-22 13:29:28.015026: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+[I 13:31:24.640 NotebookApp] Saving file at /task1_reduce_dataset_size-Copy1.ipynb
+[I 13:33:24.593 NotebookApp] Saving file at /task1_reduce_dataset_size-Copy1.ipynb
+[I 13:50:38.331 NotebookApp] Saving file at /task1_reduce_dataset_size-Copy1.ipynb
+[I 13:50:40.967 NotebookApp] Starting buffering for 542c9720-78c0-4f06-be41-ce0215fce3d8:955aa2f06b544c7394191e7eeb836d67
+[I 14:02:15.683 NotebookApp] Starting buffering for db371427-5083-4291-830f-5570d35bf3e9:ec675c8a6a6c4b238d829255f01bd791
+[I 17:05:01.771 NotebookApp] The port 8888 is already in use, trying another port.
+[I 2023-02-22 17:05:02.458 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-22 17:05:02.458 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 17:05:02.463 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/numpy/21feb2033
+[I 17:05:02.463 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 17:05:02.463 NotebookApp] http://localhost:8889/?token=0db22a72585e524029d44af44256090ec8af1b316c7de51a
+[I 17:05:02.463 NotebookApp]  or http://127.0.0.1:8889/?token=0db22a72585e524029d44af44256090ec8af1b316c7de51a
+[I 17:05:02.463 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:05:02.488 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-11224-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=0db22a72585e524029d44af44256090ec8af1b316c7de51a
+     or http://127.0.0.1:8889/?token=0db22a72585e524029d44af44256090ec8af1b316c7de51a
+[I 17:05:09.245 NotebookApp] Kernel started: ddf51bfb-9255-4a33-8df0-98391bc71aef, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: e0d3cd01-9ec1-4fb1-bc4a-bdb2080ea2ea
+[I 18:43:01.557 NotebookApp] Starting buffering for ddf51bfb-9255-4a33-8df0-98391bc71aef:cc78ebe8536141c286f25e8b9ad4a9c4
+[I 21:18:40.012 NotebookApp] The port 8888 is already in use, trying another port.
+[I 2023-02-22 21:18:40.732 LabApp] JupyterLab extension loaded from /home/nouman/anaconda3/lib/python3.8/site-packages/jupyterlab
+[I 2023-02-22 21:18:40.732 LabApp] JupyterLab application directory is /home/nouman/anaconda3/share/jupyter/lab
+[I 21:18:40.737 NotebookApp] Serving notebooks from local directory: /home/nouman/Downloads/training_batch/week2/numpy/21feb2033
+[I 21:18:40.738 NotebookApp] Jupyter Notebook 6.3.0 is running at:
+[I 21:18:40.738 NotebookApp] http://localhost:8889/?token=da7f1321cc35f99be223e68a0dc06793ac01ae913c540415
+[I 21:18:40.738 NotebookApp]  or http://127.0.0.1:8889/?token=da7f1321cc35f99be223e68a0dc06793ac01ae913c540415
+[I 21:18:40.738 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:18:40.763 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/nouman/.local/share/jupyter/runtime/nbserver-8372-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=da7f1321cc35f99be223e68a0dc06793ac01ae913c540415
+     or http://127.0.0.1:8889/?token=da7f1321cc35f99be223e68a0dc06793ac01ae913c540415
+[I 21:18:47.972 NotebookApp] Kernel started: 44b827b2-554e-4d71-81ab-e8c9f33e5578, name: python3
+[IPKernelApp] ERROR | No such comm target registered: jupyter.widget.control
+[IPKernelApp] WARNING | No such comm: 4c092712-a568-4f5b-8f8f-d168e6783901
+[I 21:40:34.139 NotebookApp] Starting buffering for 44b827b2-554e-4d71-81ab-e8c9f33e5578:10ddfd94b3b5456a82d34f9683fde1e2
