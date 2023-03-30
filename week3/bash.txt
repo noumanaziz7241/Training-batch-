@@ -1,0 +1,16 @@
+bash
+#!/bin/bash# Replace "Software" with "IT"
+sed 's/Software/IT/' employees.txt > temp.txt
+Remove rows where "Employee Age" is less than 30
+
+awk -F ',' '$3 >= 30' temp.txt > temp2.txt
+
+
+Calculate average salary by department and print to console
+
+awk -F ',' '{sums[$4] += $5; counts[$4]++} END {for (dept in sums) printf("%s: %d\n", dept, int(sums[dept]/counts[dept] + 0.5))}' temp2.txt
+
+
+Save updated dataset to a new filemv temp2.txt updated_employees.txt
+
+Remove temporary filesrm temp.
