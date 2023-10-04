@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/tmp/ipykernel_30004/1623862648.py", line 49, in test
+    return solution(img_path)
+  File "/tmp/ipykernel_30004/1623862648.py", line 30, in solution
+    pred = model.predict(features)
+NameError: name 'model' is not defined
